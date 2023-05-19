@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak-x@sha256:2f58e5a5ecf3cd0236dd4085134d3731e486125b0b3da541df7f5180ff77b6ee
+FROM quay.io/keycloak/keycloak:21.1.1
